@@ -2,8 +2,9 @@
   "name": "javascript-iv",
   "version": "1.0.0",
   "description": "This challenge focuses on classes in JavaScript using the new `class` keyword.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "start": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

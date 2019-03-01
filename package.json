@@ -1,0 +1,20 @@
+{
+  "name": "javascript-iv",
+  "version": "1.0.0",
+  "description": "This challenge focuses on classes in JavaScript using the new `class` keyword.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamConnatser/JavaScript-IV.git"
+  },
+  "author": "WilliamConnatser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamConnatser/JavaScript-IV/issues"
+  },
+  "homepage": "https://github.com/WilliamConnatser/JavaScript-IV#readme"
+}
